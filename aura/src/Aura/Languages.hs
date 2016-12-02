@@ -458,7 +458,7 @@ executeOpts_1 = \case
     Croatian   -> "Neke od danih zastavica nije moguće kombinirati!"
     Swedish    -> "Givna flaggor är i konflikt!"
     German     -> "Angegebene Kommandozeilen-Flags sind widersprüchlich!"
-    Spanish    -> "¡Flags contradictorios!"
+    Spanish    -> "¡Flags contradictorias!"
     Portuguese -> "Flags conflitantes!"
     French     -> "Arguments contradictoires !"
     Russian    -> "Даны конфликтующие флаги!"
